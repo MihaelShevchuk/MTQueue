@@ -1,0 +1,2 @@
+# MTQueue
+Thread safe queue.
